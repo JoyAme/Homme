@@ -17,7 +17,7 @@ const Explora = () => {
         <Container>
             <div className='explore-D'>
                 <h1>Explore Design</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <p className='explore-p'>Lorem ipsum dolor sit amet, consectetur<br></br> adipiscing elit. 
                   Eu scelerisque accumsan, a vestibulum eget velit</p>
             </div>
             <Row>

@@ -13,6 +13,9 @@ width:100%;
     margin:auto;
     font-size:12px;
 }
+.explore-p{
+ text-align:center;
+}
 .explore-designs{
     width:602px;
 }

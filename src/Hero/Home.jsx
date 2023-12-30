@@ -8,6 +8,7 @@ import star from './../../src/Images/Star.png'
 import Explora from '../Explore/Explora'
 import Casee from '../Case/Casee'
 import Clients from '../Clients/Clientts'
+import Offic from '../Office/Offic'
 
 
 
@@ -44,6 +45,7 @@ const Home = () => {
     </Homme>
 
     <Explora/>
+    <Offic/>
     <Casee/>
   <Clients/>
     {/* <Modern>

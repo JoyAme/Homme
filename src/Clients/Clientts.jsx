@@ -17,7 +17,7 @@ const Clientts = () => {
         <Container>
             <div className='client'>
                 <h3 className='client-name'>CLIENTS</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu scelerisque accumsan,
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></br> Eu scelerisque accumsan,
                      a vestibulum eget velit.</p>
             </div>
 

@@ -54,12 +54,12 @@ const Footer = () => {
        <hr></hr>
 
        <div className='Footer-bottom'>
-        {/* <div className='icons'>
+        <div className='icons'>
         <i class="fa fa-instagram" aria-hidden="true" className='icony'></i>
        <i class="fa fa-twitter" aria-hidden="true" className='icony' ></i>
        <i class="fa fa-facebook" aria-hidden="true" className='icony' ></i>
        <i class="fa fa-youtube" aria-hidden="true" className='icony'></i>
-       </div> */}
+       </div>
        <h4>Copyrights.all right reserved</h4>
        </div>
       

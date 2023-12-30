@@ -11,7 +11,7 @@ const Casee = () => {
         <Container>
             <div className='client'>
                 <h1>Case Study</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></br>
                   Eu scelerisque accumsan, a vestibulum eget velit</p>
             </div>
             <div>
