@@ -15,7 +15,7 @@ const Casee = () => {
                   Eu scelerisque accumsan, a vestibulum eget velit</p>
             </div>
             <div>
-              <img src={apartment} alt='apartment'/>
+              <img src={apartment} alt='apartment' className='apart-ment'/>
 
             <div className='Lounge'>
               <h4>Lounge Re-Design</h4>

@@ -16,8 +16,8 @@ export const ClientFile=styled.div`
 .client{
     display:flex;
     flex-direction:column;
-    justify-content:center;
-    /* width:512px; */
+    text-align:center;
+    width:512px;
     margin:auto;
     padding-bottom:50px;
     line-height:1rem;
@@ -36,4 +36,12 @@ export const ClientFile=styled.div`
 export const ClientFe=styled.div`
  width:100%;
  /* background:green; */
+
+ @media screen and (max-width:478px) {
+    .client{
+    
+    width:322px;
+    }
+}
+
  `

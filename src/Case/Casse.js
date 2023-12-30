@@ -15,11 +15,14 @@ export const CaseFile=styled.div`
   line-height:1rem;
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    text-align:center;
     /* width:512px; */
     margin:auto;
     padding-bottom:30px;
     font-size:12px;
+}
+.apartment{
+  width:100%;
 }
 @media screen and (max-width:478px) {
 .apart-ment{

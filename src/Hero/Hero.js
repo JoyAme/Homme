@@ -49,7 +49,7 @@ p{
 @media screen and (max-width:478px) {
    .Design{
     font-size:30px;
-    width:420px;
+    width:380px;
    }
    .Design-i{
     font-size:12px;
