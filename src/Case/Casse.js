@@ -21,5 +21,10 @@ export const CaseFile=styled.div`
     padding-bottom:30px;
     font-size:12px;
 }
+@media screen and (max-width:478px) {
+.apart-ment{
+  width:100%;
+}
+}
 
 `

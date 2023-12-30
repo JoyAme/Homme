@@ -24,6 +24,9 @@ padding-top:120px;
 .star{
    width:40px;
 } 
+.heroimg{
+   width:100%;
+}
 }
 `;
 

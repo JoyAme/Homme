@@ -30,7 +30,7 @@ const Home = () => {
             </div>
         </Design>
       <div>
-        <img src={Heroimg} alt="house"/>
+        <img src={Heroimg} alt="house" className='heroimg'/>
         </div>
     </Row>
     </Container>
