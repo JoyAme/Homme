@@ -42,6 +42,9 @@ export const ClientFe=styled.div`
     
     width:322px;
     }
+    .mages{
+   padding-right:10px;
+ }
 }
 
  `

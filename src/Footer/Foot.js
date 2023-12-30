@@ -74,7 +74,7 @@ h4{
 
 }
 @media screen and (max-width:478px) {
-height:100%;
+height:100vh;
 /* .foot-it{
 text-align:left;
 } */
