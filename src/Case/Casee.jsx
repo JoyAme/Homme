@@ -18,7 +18,7 @@ const Casee = () => {
               <img src={apartment} alt='apartment' className='apart-ment'/>
 
             <div className='Lounge'>
-              <h4>Lounge Re-Design</h4>
+              <h4>Lounge Re-Design1</h4>
               <p>Learn More</p>
             </div>
 
