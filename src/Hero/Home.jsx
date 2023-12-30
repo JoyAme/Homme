@@ -23,8 +23,8 @@ const Home = () => {
        
         <Design>
           <div>
-          <h1>DESIGN YOUR DREAM HOME</h1>
-          <p>Lorem ipsum dolor sit amet consectetur . Quia doloremque 
+          <h1 className='Design'>DESIGN YOUR DREAM HOME</h1>
+          <p className='Design-i'>Lorem ipsum dolor sit amet consectetur . Quia doloremque 
             Quaerat magni hic maiores eius.t sunt?</p>
             <Buton type='primary'>Explore Gallery</Buton>
             </div>

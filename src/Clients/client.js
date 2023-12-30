@@ -17,7 +17,7 @@ export const ClientFile=styled.div`
     display:flex;
     flex-direction:column;
     justify-content:center;
-    width:512px;
+    /* width:512px; */
     margin:auto;
     padding-bottom:50px;
     line-height:1rem;

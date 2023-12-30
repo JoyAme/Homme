@@ -16,7 +16,7 @@ export const CaseFile=styled.div`
     display:flex;
     flex-direction:column;
     justify-content:center;
-    width:512px;
+    /* width:512px; */
     margin:auto;
     padding-bottom:30px;
     font-size:12px;

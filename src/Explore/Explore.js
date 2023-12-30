@@ -8,8 +8,8 @@ width:100%;
     padding-bottom:20px;
     display:flex;
     flex-direction:column;
-    justify-content:center;
-    width:512px;
+    text-align:center;
+    /* width:512px; */
     margin:auto;
     font-size:12px;
 }

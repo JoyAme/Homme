@@ -30,7 +30,7 @@ li{
     list-style:none;
   color: #787878;
 line-height:17px;
-text-align:start;
+/* text-align:start; */
 }
 .Title{
     font-size:16px;
@@ -70,7 +70,15 @@ h4{
     flex-direction:column;
     gap:10%; */
 }
+.foot-it{
 
+}
+@media screen and (max-width:478px) {
+height:100%;
+/* .foot-it{
+text-align:left;
+} */
+}
 `
 
 
@@ -78,5 +86,13 @@ export const Roww=styled.div`
 display:flex;
 gap:30px;
 justify-content:space-between;
+@media screen and (max-width:478px) {
+  display:block;
+ text-align:left;
+ li{
+    text-align:start;
+}
 
+
+}
 `

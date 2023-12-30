@@ -17,9 +17,12 @@ padding-top:120px;
    -webkit-text-stroke:1px black;
    -webkit-text-fill-color:rgba(2555,255,255,0);
 }
-@media screen and (max-width:768px) {
-  .marq{
-  
+@media screen and (max-width:478px) {
+  .text{
+    font-size:40px;
+} 
+.star{
+   width:40px;
 } 
 }
 `;
@@ -40,7 +43,14 @@ p{
   width:450px;
   color:#000000;
 }
-@media screen and (max-width:768px) {
-   
+@media screen and (max-width:478px) {
+   .Design{
+    font-size:30px;
+    width:420px;
+   }
+   .Design-i{
+    font-size:12px;
+    width:380px;
+   }
 }
 `;

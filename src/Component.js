@@ -6,6 +6,8 @@ color:${(props)=> (props.type ==="primary"? "black":"white")};
 position:fixed;
 width:100%;
 top:0px;
+left:0px;
+right:0px;
 padding-top:20px;
 z-index:100;
 align-items:center;
