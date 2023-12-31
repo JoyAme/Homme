@@ -36,7 +36,7 @@ line-height:17px;
     font-size:16px;
 }
 ul{
-   text-align:start;
+   /* text-align:start; */
   margin-top:0px;
 }
 .Row{
@@ -48,6 +48,9 @@ ul{
   gap:0px; */
   line-height:0px;
   text-align:start
+}
+.foot-it{
+    display:block;
 }
 .beauty{
  font-family:sora;
@@ -70,8 +73,16 @@ h4{
     flex-direction:column;
     gap:10%; */
 }
-.foot-it{
-
+.icons{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    
+    li{
+        border:1px solid white;
+        border-radius:999px;
+        padding:8px;
+    }
 }
 @media screen and (max-width:478px) {
 height:100vh;

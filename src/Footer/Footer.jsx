@@ -2,6 +2,11 @@ import React from 'react'
 import { FooterField, Roww} from './Foot'
 import { Container, Rowwer } from '../Global'
 import  HOME from './../../src/Images/homeey.png'
+import { Facebook } from 'feather-icons-react/build/IconComponents'
+import { Twitter } from 'feather-icons-react/build/IconComponents'
+import { Instagram } from 'feather-icons-react/build/IconComponents'
+import { Youtube } from 'feather-icons-react/build/IconComponents'
+
 
 
 const Footer = () => {
@@ -55,10 +60,15 @@ const Footer = () => {
 
        <div className='Footer-bottom'>
         <div className='icons'>
-        <i class="fa fa-instagram" aria-hidden="true" className='icony'></i>
+          
+            <li><Instagram/></li>
+            <li><Facebook/></li>
+            <li><Twitter/></li>
+            <li><Youtube/></li>
+        {/* <i class="fa fa-instagram" aria-hidden="true" className='icony'></i>
        <i class="fa fa-twitter" aria-hidden="true" className='icony' ></i>
        <i class="fa fa-facebook" aria-hidden="true" className='icony' ></i>
-       <i class="fa fa-youtube" aria-hidden="true" className='icony'></i>
+       <i class="fa fa-youtube" aria-hidden="true" className='icony'></i> */}
        </div>
        <h4>Copyrights.all right reserved</h4>
        </div>
